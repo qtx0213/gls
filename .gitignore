@@ -1,0 +1,3 @@
+*.pdb
+*.ncb
+/src/glsbase/Debug
